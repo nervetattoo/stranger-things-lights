@@ -1,4 +1,8 @@
-stranger-things-lights
+Stranger Things lightning installation
 =================
 
-Code for my [Stranger Things lightning installation](https://medium.com/@nervetattoo/making-a-stranger-things-lights-decoration-f67017831255) for halloween.
+We made this installation for our halloween party.
+
+[Read the corresponding blogpost](https://medium.com/@nervetattoo/making-a-stranger-things-lights-decoration-f67017831255)
+
+![Stranger Things](/stranger-things-lights.gif)
